@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a bug report for a bug you find
+about: Report a bug you found
 title: Bug Report
 labels: bug
 assignees: ''
@@ -17,16 +17,16 @@ Steps to reproduce the behavior:
 4. See bug
 
 **Expected Behavior**
-What do you think should have happened when the steps above were followed?
+A clear and concise description you think should have happened when the steps above were followed.
 
 **Screenshots**
 Put any screenshots you might have of the problem here.
 
-**Desktop (please complete the following information):**
+**Device information:**
  - OS w/ Build: [e.g. Windows 10 Pro, build 19044]
  - Game Version: [e.g. 1.8.9]
  - Client Version: [e.g. 0.1.0]
- - Specs of Your Device:
+ - Specifications of Device:
    [e.g. 
    CPU: Ryzen 7 2700X
    GPU: RTX 2070 Super
