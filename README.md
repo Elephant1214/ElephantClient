@@ -1,5 +1,5 @@
 # Elephant Client
-A Minecraft PvP client for 1.8.9 focused on enhancements of FPS and the overall experience of PvP.
+A Minecraft PvP client for 1.8.9 focused on enhancements of FPS and the overall experience of Minecraft PvP.
 
 ## Installation
 Coming soon!
