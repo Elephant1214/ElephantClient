@@ -9,7 +9,7 @@ If your bug/feature wasn't previously mentioned/requested by someone else in the
 Please don't forget to follow the formats provided while making a bug report or feature request.
 
 ## Translations
-**There current translations are as follows:**\
+**The current translations are as follows:**\
 English by [Elephant_1214](https://github.com/elephant1214)\
 German by [Whomsky](https://github.com/Whomsky)\
 Spanish by [Urielsalis](https://github.com/urielsalis)\
