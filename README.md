@@ -17,4 +17,4 @@ Swedish by [Fripe](https://github.com/Fripe070)
 ~~You can help out by translating here!~~ **- Coming soon!**
 
 ## Discord Server
-**Coming soon!**
+![Discord Server](https://discordapp.com/api/guilds/959153592869224579/widget.png?style=banner2)
