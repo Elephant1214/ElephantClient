@@ -1,1 +1,8 @@
-temp
+ec.error.crafatar.player=Crafatar could not find a player with the UUID '%s', defaulting to Steve
+ec.error.crafatar.unreachable=Could not get to Crafatar to get your skin, HTTP error %s
+ec.gui.account=Account
+ec.gui.freeCape=Free Cape
+ec.gui.profile=Profile
+ec.gui.skin=Skin
+ec.gui.switchAccounts=Switch Accounts
+ec.message.loggedIn=Logged in as %s
