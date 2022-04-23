@@ -1,7 +1,7 @@
 ![Discord](https://discordapp.com/api/guilds/959153592869224579/widget.png?style=banner2)\
 \
-![Open Issues](https://img.shields.io/github/issues/Elephant1214/NotEnoughVariations?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Elephant1214/NotEnoughVariations?style=for-the-badge)
+![Open Issues](https://img.shields.io/github/issues/Elephant1214/ElephantClient?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Elephant1214/ElephantClient?style=for-the-badge)
 
 # Elephant Client
 A Minecraft PvP client (currently only for 1.8.9) focused on performance and overall experience.
