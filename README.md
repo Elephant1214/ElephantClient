@@ -1,4 +1,4 @@
-![Discord](https://discordapp.com/api/guilds/959153592869224579/widget.png?style=banner2)\
+![Discord](https://discord.com/widget?id=959153592869224579&theme=dark)\
 \
 ![Open Issues](https://img.shields.io/github/issues/Elephant1214/ElephantClient?color=lime&style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Elephant1214/ElephantClient?style=for-the-badge)
