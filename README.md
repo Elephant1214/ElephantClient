@@ -14,10 +14,9 @@ If your bug/feature wasn't previously mentioned/requested by someone else in the
 Please follow the formats provided while making a bug report or feature request.
 
 ## Translations
-**The current translations are as follows:**\
-German by [Whomsky](https://github.com/Whomsky)\
-Spanish by [Urielsalis](https://github.com/urielsalis)\
-Swedish by [Fripe](https://github.com/Fripe070)\
-Welsh by [Alfie](https://github.com/alf1e)
+German - [Whomsky](https://github.com/Whomsky)\
+Spanish - [Urielsalis](https://github.com/urielsalis)\
+Swedish - [Fripe](https://github.com/Fripe070)\
+Welsh - [Alfie](https://github.com/alf1e)
 
 You can help out by translating [here](https://github.com/Elephant1214/ElephantClient/tree/main/translations)!
