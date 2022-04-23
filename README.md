@@ -17,5 +17,6 @@ Please follow the formats provided while making a bug report or feature request.
 German by [Whomsky](https://github.com/Whomsky)\
 Spanish by [Urielsalis](https://github.com/urielsalis)\
 Swedish by [Fripe](https://github.com/Fripe070)
+Welsh by [Alfie](https://github.com/alf1e)
 
-~~You can help out by translating here!~~ **- Coming soon!**
+You can help out by translating [here](https://github.com/Elephant1214/ElephantClient/tree/main/translations)!
