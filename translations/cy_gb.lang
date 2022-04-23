@@ -1,0 +1,8 @@
+ec.error.crafatar.player=Ni allai Crafatar ddod o hyd i chwaraewr gyda'r UUID '%s', yn rhagosodedig i Steve
+ec.error.crafatar.unreachable=Methu cyrraedd Crafatar i gael eich croen, gwall HTTP %s
+ec.gui.account=Cyfrif
+ec.gui.freeCape=clogyn am ddim
+ec.gui.profile=Proffil
+ec.gui.skin=Croen
+ec.gui.switchAccounts=Newid cyfrifon
+ec.message.loggedIn=Wedi mewngofnodi fel %s
