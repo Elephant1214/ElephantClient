@@ -1,0 +1,8 @@
+ec.error.crafatar.player=Crafatar konnte keinen Spieler mit der UUID '%s' finden, es wird stattdessen Steve benutzt.
+ec.error.crafatar.unreachable=Crafatar konnte nicht erreicht werden, um deinen Skin zu laden. HTTP-Fehler %s
+ec.gui.account=Account
+ec.gui.freeCape=Kostenloses Cape
+ec.gui.profile=Profil
+ec.gui.skin=Skin
+ec.gui.switchAccounts=Account wechseln
+ec.message.loggedIn=Angemeldet als %s
