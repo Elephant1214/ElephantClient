@@ -1,0 +1,8 @@
+ec.error.crafatar.player=Crafatar не смог найти игрока с UUID '%s', используем Steve
+ec.error.crafatar.unreachable=Не удалось получить отклик от Crafatar для получения скина, ошибка HTTP %s
+ec.gui.account=Аккаунт
+ec.gui.freeCape=Бесплатный плащ
+ec.gui.profile=Профиль
+ec.gui.skin=Скин
+ec.gui.switchAccounts=Смена аккаунта
+ec.message.loggedIn=Залогинен как %s
