@@ -1,0 +1,8 @@
+ec.error.crafatar.player=Crafatar kon geen speler vinden met het UUIDD '%s', in plaats daarvan wordt Steve gebruikt
+ec.error.crafatar.unreachable=Crafatar kon je skin niet verkrijgen, HTTP error %s
+ec.gui.account=Account
+ec.gui.freeCape=Gratis Cape
+ec.gui.profile=Profiel
+ec.gui.skin=Skin
+ec.gui.switchAccounts=Veranderen Van Account
+ec.message.loggedIn=Ingelogd als %s
